@@ -1,2 +1,2 @@
 # tic-tac-toe
-The Deployment Link is- https://yashraj176.github.io/tictac/
+Deployment Link - https://tic-tac-toe-teal-ten.vercel.app/
